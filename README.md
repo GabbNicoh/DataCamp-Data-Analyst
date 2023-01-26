@@ -1,6 +1,7 @@
 # ROAD MAP for Data Analyst
 
 ## Networking
+how to network pls
 
 ## Technical Skills
 - Tableu or Power BI
