@@ -12,6 +12,7 @@ how to network pls
 - Machine Learning
 
 ## Projects and Portfolio
+- Dashboard for bitcoin?
 
 ## LinkedIn and apply
 
