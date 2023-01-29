@@ -9,8 +9,9 @@ how to network pls
 - SQL
 - Python or R
 - Statistics
+- Machine Learning
 
-## Projects
+## Projects and Portfolio
 
 ## LinkedIn and apply
 
